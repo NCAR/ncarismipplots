@@ -1,0 +1,16 @@
+name: cartopy_tutorial
+channels:
+  - conda-forge
+  - ncar
+dependencies:
+  - python=3
+  - geocat-datafiles
+  - geocat-viz=2020.7.30.1
+  - cartopy
+  - jupyterlab
+  - make
+  - matplotlib=3.3.0
+  - metpy
+  - netcdf4
+  - pip
+  - xarray
